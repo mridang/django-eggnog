@@ -1,5 +1,5 @@
 ============
-django-erroneous
+django-eggnog
 ============
 
 View all available updates for your installed eggs right from within the administration console. 
