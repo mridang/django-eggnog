@@ -1,4 +1,6 @@
-.. -*- restructuredtext -*-
+============
+django-erroneous
+============
 
 View all available updates for your installed eggs right from within the administration console. 
 
