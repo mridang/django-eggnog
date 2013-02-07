@@ -35,8 +35,9 @@ setup(
     license = "BSD License",
     install_requires = [
         'Django>=1.4',
-        'South>=0.7.2',
-        'Yolk>=0.4.3',
+        'south>=0.7.2',
+        'yolk',
+        'apscheduler',
     ],
     version = '0.0.1',
 )
