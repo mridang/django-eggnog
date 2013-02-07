@@ -9,7 +9,7 @@ def periodicallycheckforupdates():
     else:
         sched = Scheduler()
 
-        @sched.interval_schedule(seconds=10)
+        @sched.interval_schedule(seconds=86400)
         def __check():
             """
             Periodically checks for updates
