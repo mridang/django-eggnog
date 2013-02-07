@@ -4,7 +4,7 @@ django-eggnog
 
 View all available updates for your installed eggs right from within the administration console. 
 
-Eggnog is a simple wrapper on Yolk. Eggnog works best when it is scheduled to run at a periodic internal. It fetches the list of installed eggs and quries PyPI for any available updates.
+Eggnog is a simple wrapper on Yolk. Eggnog works best when it is scheduled to run at a periodic internal. It fetches the list of installed eggs and queries PyPI for any available updates.
 
 If there's a feature that you're missing and you'd like added, please create an issue on the project page at Github or create the fix yourself and send me a pull request. Adding a few small features here and there are okay but this is in no way aimed to encompass all the functionality of a full-blown package management tool like Pip.
 
